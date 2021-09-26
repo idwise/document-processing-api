@@ -1,3 +1,6 @@
+This repo is moving to;
+https://github.com/idwise/document-processing-api/
+
 # IDWise Document Processing API
 
 Integrating with IDWise document processing API couldn’t be easier! It is a standard HTTP API, it processes a document and optionally a selfie and returns the recognition and information extraction results synchronously as part of the HTTP response as JSON.
